@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=adityababar07&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app)
-![Top Languages Card](https://github-readme-stats.vercel.app)
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adityababar07&icon=0&color=0)](https://visitcount.itsvg.in)
