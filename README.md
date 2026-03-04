@@ -1,13 +1,11 @@
 <div align="center"> 
   
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&duration=2500&pause=1000&color=38BDF8&vCenter=true&random=false&width=600&lines=Hi👋%2C+I+am+Aditya+Babar)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2500&pause=1000&color=38BDF8&vCenter=true&random=false&width=600&lines=Hi👋%2C+I+am+Aditya+Babar)](https://git.io/typing-svg) 
 
 </div>
 <!--
 **adityababar07/adityababar07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
